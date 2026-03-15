@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="usuarios.xsd">
+    
+    <usuario>
+        <nombreUsuario>carlosDev</nombreUsuario>
+        <email>carlos.prueba@gmail.com</email>
+        <telefono>+34600123456</telefono>
+        <codigoPostal>41013</codigoPostal>
+        <contrasena>Sevilla_2024!</contrasena>
+    </usuario>
+
+    <usuario>
+        <nombreUsuario>laura99</nombreUsuario>
+        <email>laura99@hotmail.com</email>
+        <telefono>954987654</telefono>
+        <codigoPostal>28001</codigoPostal>
+        <contrasena>P4ssw0rd!</contrasena>
+    </usuario>
+
+    </usuarios>
